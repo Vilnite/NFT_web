@@ -1,4 +1,4 @@
-# Website for [NFT_Contract](https://github.com/Vilnite/NFT_contract)
+## Website for [NFT_Contract](https://github.com/Vilnite/NFT_contract)
 
 ## Running React on Repl.it
 
